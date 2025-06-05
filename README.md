@@ -22,5 +22,5 @@ A binary classification model built using TensorFlow/Keras to predict whether a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/customer_churn_prediction.git
+   git clone https://github.com/ChandanaKN1/customer_churn_prediction.git
    cd customer_churn_prediction
